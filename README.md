@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello, I'm Tilbe 👋
+Hello! I'm Tilbe, a proactive frontend web developer committed to continuous self-improvement. I stay updated on the latest web technologies and showcase my own projects on GitHub. Eager to learn and contribute to the community, I'm always excited about tackling new challenges. Feel free to reach out for collaboration!
 
-<!--
-**tilbe/tilbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks,
 
 Here are some ideas to get you started:
 
