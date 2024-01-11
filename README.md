@@ -33,4 +33,3 @@ Thanks,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilbe&show_icons=true&locale=en" alt="tilbe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilbe&" alt="tilbe" /></p>
