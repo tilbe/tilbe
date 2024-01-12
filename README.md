@@ -10,7 +10,7 @@ Thanks,
 
 
 - 🌱 I’m currently learning Front-End technology.
-- 📫 How to reach me:tugrultilbe@gmail.com
+- 📫 How to reach me: tugrultilbe@gmail.com
 
 
 -->
